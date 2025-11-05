@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 478f287100d0f2f4997ef0372afe6b55
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 284699
+  packageName: 3D Stylized Animated Dogs Kit
+  packageVersion: 1.0
+  assetPath: Assets/Bublisher/3D Stylized Animated Dogs Kit/Scripts/AnimationButton.cs
+  uploadId: 663182

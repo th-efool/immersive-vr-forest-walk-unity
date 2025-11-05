@@ -1,0 +1,15 @@
+Little Friends - Cartoon Animals - Lite
+
+
+This package is a lite version of "Little Friends - Cartoon Animals."
+
+"Little Friends - Cartoon Animals" is a package of 3D characters and a prop. The rig is humanoid and animated.
+
+
+Requirement
+Unity version 2019.4.0 or higher
+
+
+Cacaoin3d
+https://cacaoin3d.seesaa.net/
+cacaoin3d@gmail.com

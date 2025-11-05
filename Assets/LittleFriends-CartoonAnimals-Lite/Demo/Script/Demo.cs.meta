@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b9b72b0130bbfd248b34aede30d0da57
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 262505
+  packageName: Little Friends - Cartoon Animals - Lite
+  packageVersion: 1.0.0
+  assetPath: Assets/LittleFriends-CartoonAnimals-Lite/Demo/Script/Demo.cs
+  uploadId: 630772

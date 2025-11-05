@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e401aad926bf6b54580932aea28d1443
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 330238
+  packageName: Bird
+  packageVersion: 1.0
+  assetPath: Assets/Zacxophone/Birds/URP/Materials/BirdMaterial.mat
+  uploadId: 781337

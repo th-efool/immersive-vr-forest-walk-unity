@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9ed65b1ec54eca744a005b5252d471df
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 284699
+  packageName: 3D Stylized Animated Dogs Kit
+  packageVersion: 1.0
+  assetPath: Assets/Bublisher/3D Stylized Animated Dogs Kit/Scripts/DemoController.cs
+  uploadId: 663182
