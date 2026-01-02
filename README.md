@@ -16,7 +16,6 @@
 
 This repository contains an XR-ready Unity project for a VR forest scene with autonomous wildlife, spatial audio, and world-space UI. The implementation focuses on clarity, extensibility, and performance for headset builds.
 
-![](https://github.com/th-efool/ForestVRWalk/blob/main/docs/Clips/screenshot20260103034615.png)
 ![](https://github.com/th-efool/ForestVRWalk/blob/main/docs/Clips/screenshot20260103034715.png)
 
 VR performance challenge
