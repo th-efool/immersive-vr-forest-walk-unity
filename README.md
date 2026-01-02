@@ -1,4 +1,10 @@
 ## ForestVRWalk — Immersive VR Forest Experience (Unity 6000.0.51f1)
+![Status](https://img.shields.io/badge/status-experimental%20VR-blue.svg)
+![Platform](https://img.shields.io/badge/platform-Unity%20XR-black.svg)
+![Domain](https://img.shields.io/badge/domain-VR%20%7C%20AI%20Behaviors%20%7C%20XR%20UI-blueviolet.svg)
+![Engine](https://img.shields.io/badge/engine-Unity%206000.0.51f1-lightgrey.svg)
+![XR](https://img.shields.io/badge/XR-OpenXR%20%7C%20XR%20Interaction%20Toolkit-success.svg)
+
 <div align="center" style="display:flex; gap:10px; justify-content:center;">
 
   <video src="https://github.com/th-efool/ForestVRWalk/docs/Clips/Actual%20FINAL.mp4" controls width="360" height="200" style="border-radius:8px; box-shadow:0 0 8px rgba(0,0,0,0.2);"></video>
