@@ -1,4 +1,4 @@
-## ForestVRWalk — Immersive VR Forest Experience (Unity 6000.0.51f1)
+## Immersive VR Forest Walk Experience
 ![Status](https://img.shields.io/badge/status-experimental%20VR-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Unity%20XR-black.svg)
 ![Domain](https://img.shields.io/badge/domain-VR%20%7C%20AI%20Behaviors%20%7C%20XR%20UI-blueviolet.svg)
