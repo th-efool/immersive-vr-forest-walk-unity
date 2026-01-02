@@ -4,6 +4,7 @@
 ![Domain](https://img.shields.io/badge/domain-VR%20%7C%20AI%20Behaviors%20%7C%20XR%20UI-blueviolet.svg)
 ![Engine](https://img.shields.io/badge/engine-Unity%206000.0.51f1-lightgrey.svg)
 ![XR](https://img.shields.io/badge/XR-OpenXR%20%7C%20XR%20Interaction%20Toolkit-success.svg)
+![Performance](https://img.shields.io/badge/performance-VR--optimized-success.svg)
 
 <div align="center" style="display:flex; gap:10px; justify-content:center;">
 
