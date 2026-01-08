@@ -34,7 +34,7 @@ VR performance challenge
 10. Contributing & Notes
 
 <table width="100%" cellspacing="0" cellpadding="0">
-  <!-- ROW 1 : single image -->
+  <!-- ROW 1 -->
   <tr>
     <td align="center">
       <img
@@ -44,19 +44,22 @@ VR performance challenge
     </td>
   </tr>
 
-  <!-- ROW 2 : two images -->
+  <!-- ROW 2 -->
   <tr>
     <td align="center">
       <img
         src="https://github.com/th-efool/immersive-vr-forest-walk-unity/blob/main/docs/Clips/b.png?raw=true"
-        width="60%"
+        width="45%"
+        style="margin-right:12px;"
       />
       <img
         src="https://github.com/th-efool/immersive-vr-forest-walk-unity/blob/main/docs/Clips/c.png?raw=true"
-        width="60%"
+        width="45%"
       />
     </td>
   </tr>
+</table>
+
 </table>
 
 ---
