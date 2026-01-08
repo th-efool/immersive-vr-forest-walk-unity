@@ -33,6 +33,32 @@ VR performance challenge
 9. Project Structure & Getting Started
 10. Contributing & Notes
 
+<table width="100%" cellspacing="0" cellpadding="0">
+  <!-- ROW 1 : single image -->
+  <tr>
+    <td align="center">
+      <img
+        src="https://github.com/th-efool/immersive-vr-forest-walk-unity/blob/main/docs/Clips/a.png?raw=true"
+        width="60%"
+      />
+    </td>
+  </tr>
+
+  <!-- ROW 2 : two images -->
+  <tr>
+    <td align="center">
+      <img
+        src="https://github.com/th-efool/immersive-vr-forest-walk-unity/blob/main/docs/Clips/b.png?raw=true"
+        width="60%"
+      />
+      <img
+        src="https://github.com/th-efool/immersive-vr-forest-walk-unity/blob/main/docs/Clips/c.png?raw=true"
+        width="60%"
+      />
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## 1) Terrain Generation (heightmap, splats, trees, details)
