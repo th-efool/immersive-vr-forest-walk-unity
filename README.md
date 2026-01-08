@@ -39,7 +39,7 @@ VR performance challenge
     <td align="center">
       <img
         src="https://github.com/th-efool/immersive-vr-forest-walk-unity/blob/main/docs/Clips/a.png?raw=true"
-        width="60%"
+        width="80%"
       />
     </td>
   </tr>
